@@ -14,6 +14,6 @@ pynetworktables2js: https://github.com/robotpy/pynetworktables2js
 
 Recommended VSCode extensions:
 
-lit-html
-ESLint
-Prettier - Code Formatter
+- lit-html
+- ESLint
+- Prettier - Code Formatter
