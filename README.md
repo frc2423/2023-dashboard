@@ -20,6 +20,6 @@ Recommended VSCode extensions:
 
 ## Create a Plugin
 
-code:
-
-  $ npm create @frc-web-components/plugin [plugin name]
+```
+$ npm create @frc-web-components/plugin [plugin name]
+```
