@@ -17,3 +17,9 @@ Recommended VSCode extensions:
 - lit-html
 - ESLint
 - Prettier - Code Formatter
+
+## Create a Plugin
+
+.. code:: bash
+
+  $ npm create @frc-web-components/plugin [plugin name]
